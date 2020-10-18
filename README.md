@@ -5,7 +5,8 @@
     <img src="logo.png" alt="Logo" height="80">
   </a>
 
-  <h3 align="center">Qesper</h3>
+  <h3 align="center">Qesper; pronounced /ˈkæspɚ/.</h3>
+  <h4 align="center"><i>With the Q from sequencer, and the ESP from, well... the ESP.</i></h4>
 
   <p align="center">
     ESP8266 based drum sequencer.
