@@ -6,10 +6,9 @@
   </a>
 
   <h3 align="center">Qesper; pronounced /ˈkæspɚ/.</h3>
-  <h4 align="center"><i>With the Q from sequencer, and the ESP from, well... the ESP.</i></h4>
-
   <p align="center">
-    ESP8266 based drum sequencer.
+  <i>With the <strong>Q</strong> from sequencer, and the <strong>ESP</strong> from, well... the ESP8266.</i></br>
+    An ESP8266 based drum sequencer.
     <br />
   </p>
 </p>
