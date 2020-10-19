@@ -32,8 +32,7 @@
 I wanted a little drum machine to jam with.
 
 I had a ton of spare electrical parts laying around the house.\
-Some from home automation projects, some from building guitar effects.\
-Some from a very early [OTTO](https://github.com/OTTO-project/OTTO), some random.
+Some from home automation projects, building guitar effects, some from a very early [OTTO](https://github.com/OTTO-project/OTTO) (a ton of buttons!), and some random leftovers.
 
 I am a developer, so I figured; _**why not make one**_.
 
