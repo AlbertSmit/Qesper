@@ -79,4 +79,6 @@ Will follow later.
 Albert - talkto@albertsm.it
 
 Project Link: [https://github.com/albertsmit/qesper](https://github.com/albertsmit/qesper)
-
+<p>
+  <span><img src="images/handlettering.png" alt="handlettering" height="12"><p>by yours truly.</p></span>
+</p>
