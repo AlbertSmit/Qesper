@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <br />
 <h1 align="center">(Work in progress).</h1>
 
@@ -8,7 +7,7 @@
     <img src="images/logo.png" alt="Logo" height="80">
   </a>
 
-  <h3 align="center">Qesper.</h3>
+  <!--  Redundant title? <h3 align="center">Qesper.</h3> -->
   <p align="center">
   It's like the name <strong><i>Casper</i></strong>, but instead it's bits of <strong>sequencer</strong>, and <strong>ESP</strong> mashed together.</br>
     Whatever dude. It's an ESP8266 based drum sequencer.
