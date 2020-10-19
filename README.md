@@ -83,5 +83,5 @@ Project Link: [https://github.com/albertsmit/qesper](https://github.com/albertsm
 ---
 
 <p>
-  <span><img src="images/handlettering.png" alt="handlettering" height="8">&nbsp; <i>by yours truly</i>.</span>
+  <span><img src="images/handlettering.png" alt="handlettering" height="9">&nbsp; <i>by yours truly</i>.</span>
 </p>
