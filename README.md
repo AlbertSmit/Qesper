@@ -29,28 +29,45 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Write this.
+I wanted a little drum machine to jam with.
+
+I had a ton of spare electrical parts laying around the house.\
+Some from home automation projects, some from building guitar effects.\
+Some from a very early [OTTO](https://github.com/OTTO-project/OTTO), some random.
+
+I am a developer, so I figured; _**why not make one**_.
+
+> _sidenote_: My main language is JavaScript, so cut me some slack in the C++ domain. :wink:
 
 
 ### Built With
+* [U8g2](https://github.com/olikraus/u8g2)
 * [Mozzi](https://github.com/sensorium/Mozzi)
+* [AceButton](https://github.com/bxparks/AceButton)
+* [RotaryEncoder](https://github.com/mathertel/RotaryEncoder)
+* [Gaussian](https://github.com/ivanseidel/Gaussian)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Write this.
+Still busy writing this.
 
 
 ### Prerequisites
 
-Write this.
+- ESP8266 (Other boards might work; have not tested).
+- An OLED (I use a a cheap 128x64 **SSD1306** OLED).
+- Any I2S DAC supported by Mozzi (I got a cheap **Max98357**).
+- Some mechanical buttons.
+- A rotary encoder.
+- Various general electronics like resistors and diodes.
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Write this.
+Will follow later.
 
 
 <!-- CONTACT -->
