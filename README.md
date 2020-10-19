@@ -1,6 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<h1 align="center">(Work in progress).</h1>
+
+<br />
+<p align="center">  
   <a href="https://github.com/albertsmit/qesper">
     <img src="images/logo.png" alt="Logo" height="80">
   </a>
