@@ -32,9 +32,13 @@
 I wanted a little drum machine to jam with.
 
 I had a ton of spare electrical parts laying around the house.\
-Some from home automation projects, building guitar effects, some from a very early [OTTO](https://github.com/OTTO-project/OTTO) (a ton of buttons!), and some random leftovers.
+To give in idea of what those consist of:
+- **Home automation** (somehow wanted a doorbell in HomeKit).
+- **Leftover guitar effects** (make some **noise**).
+- **Leftover parts of a very early [OTTO](https://github.com/OTTO-project/OTTO)** (hence, lots of buttons).
+- **Random electronic crap** (that I would otherwise throw away by now).
 
-I am a developer, so I figured; _**why not make one**_.
+I am a (frontend) developer, so I figured; _**why not make one**_.
 
 > _sidenote_: My main language is JavaScript, so cut me some slack in the C++ domain. :wink:
 
