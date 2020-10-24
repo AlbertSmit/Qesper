@@ -1,0 +1,21 @@
+{
+  "name": "qesper",
+  "version": "0.1.0",
+  "description": "Display font based on the Qesper logotype.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertSmit/Qesper.git"
+  },
+  "keywords": [
+    "SIL",
+    "Open",
+    "Source",
+    "Font"
+  ],
+  "author": "Albert Smit",
+  "license": "SIL",
+  "bugs": {
+    "url": "https://github.com/AlbertSmit/Qesper/issues"
+  },
+  "homepage": "https://github.com/AlbertSmit/Qesper/tree/develop/fonts/Qesper%20Display#readme"
+}
