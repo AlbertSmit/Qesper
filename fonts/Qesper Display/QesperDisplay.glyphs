@@ -5,7 +5,7 @@ DisplayStrings = (
 L,
 T,
 O,
-N,
+"NOT\012EVER\012GOING\012BACK\012\012TO/space ANY\012SORT/space OF\012QUARA\012NTINE",
 E,
 I,
 R,
@@ -36,7 +36,7 @@ b,
 "ZED\012EZEL\012EZECHIEL",
 VERY,
 V,
-Y,
+"YOU\012BETTER\012NOT/space SAY\012A/space THING",
 "JESUS\012WALKS\012JESUS\012TALKS",
 "TALK/space TO/space \012OTHERS\012\012KARATE",
 "KALE\012KARATE\012SKEPTIC",
@@ -45,7 +45,13 @@ SKEPTICS,
 "/space",
 "ATTACK/space",
 ALBERTTO,
-"ILLEGAL\012KEBAB\012RAVE\012JOB\012TIT\012YE\012OK"
+"ILLEGAL\012KEBAB\012RAVE\012JOB\012TIT\012YE\012OK",
+"QUEST\012LOVE",
+"Q\012Q\012Q",
+"Q\012Q",
+Q,
+Y,
+d
 );
 copyright = "Copyright © 2020 by Albert Smit.";
 customParameters = (
@@ -65,9 +71,9 @@ name = Languagesystems;
 );
 fontMaster = (
 {
-ascender = 700;
+ascender = 706;
 capHeight = 570;
-descender = -200;
+descender = -136;
 id = "79BCC730-0F44-4A42-A012-F492207EDC30";
 userData = {
 GSOffsetHorizontal = 15;
@@ -989,7 +995,7 @@ unicode = 0050;
 },
 {
 glyphname = Q;
-lastChange = "2020-10-24 09:11:55 +0000";
+lastChange = "2020-10-24 09:50:13 +0000";
 layers = (
 {
 layerId = "79BCC730-0F44-4A42-A012-F492207EDC30";
@@ -1006,10 +1012,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"804 0 LINE",
+"512 0 LINE",
 "183 0 LINE",
 "183 136 LINE",
-"804 136 LINE"
+"512 136 LINE"
 );
 },
 {
