@@ -30,7 +30,7 @@ W,
 YES,
 "TELL/space ME/space WHAT/space U/space REALLY\012REALLY\012WANT\012\012MAAS\012AUDIO\012\012SAMPLE\012RATE/space COM",
 "YES\012I/space AM/space THE/space BEST/space AND\012I/space REALLY\012LIKE/space DIANNIE/space JANSIE\012\012ALBERT\012SMIT\012\012POEP/space IN/space REET",
-Q,
+"QUERY\012QUITTER\012QUISINE\012IRAQ\012QUARANTIN\012FAQ\012\012QUARTERS",
 a,
 b,
 "ZED\012EZEL\012EZECHIEL",
@@ -40,7 +40,12 @@ Y,
 "JESUS\012WALKS\012JESUS\012TALKS",
 "TALK/space TO/space \012OTHERS\012\012KARATE",
 "KALE\012KARATE\012SKEPTIC",
-SKEPTICS
+SKEPTICS,
+"ATT/space",
+"/space",
+"ATTACK/space",
+ALBERTTO,
+"ILLEGAL\012KEBAB\012RAVE\012JOB\012TIT\012YE\012OK"
 );
 copyright = "Copyright © 2020 by Albert Smit.";
 customParameters = (
@@ -984,10 +989,74 @@ unicode = 0050;
 },
 {
 glyphname = Q;
+lastChange = "2020-10-24 09:11:55 +0000";
 layers = (
 {
 layerId = "79BCC730-0F44-4A42-A012-F492207EDC30";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"804 434 LINE",
+"213 434 LINE",
+"213 570 LINE",
+"804 570 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"804 0 LINE",
+"183 0 LINE",
+"183 136 LINE",
+"804 136 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"56 137 OFFCURVE",
+"50 143 OFFCURVE",
+"50 151 CURVE",
+"76 424 LINE",
+"76 431 OFFCURVE",
+"82 435 OFFCURVE",
+"89 435 CURVE",
+"199 435 LINE",
+"206 435 OFFCURVE",
+"213 428 OFFCURVE",
+"212 421 CURVE",
+"186 149 LINE",
+"186 142 OFFCURVE",
+"180 137 OFFCURVE",
+"173 137 CURVE",
+"64 137 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"938 434 LINE",
+"938 135 LINE",
+"804 135 LINE",
+"804 434 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"804 0 LINE",
+"649 0 LINE",
+"404 245 LINE",
+"499 341 LINE",
+"705 135 LINE",
+"729 111 LINE",
+"669 135 LINE",
+"804 135 LINE"
+);
+}
+);
+width = 988;
 }
 );
 unicode = 0051;
@@ -2007,6 +2076,51 @@ width = 600;
 }
 );
 unicode = 0020;
+},
+{
+glyphname = newGlyph;
+layers = (
+{
+layerId = "79BCC730-0F44-4A42-A012-F492207EDC30";
+width = 600;
+}
+);
+},
+{
+glyphname = newGlyph.001;
+layers = (
+{
+layerId = "79BCC730-0F44-4A42-A012-F492207EDC30";
+width = 600;
+}
+);
+},
+{
+glyphname = newGlyph.002;
+layers = (
+{
+layerId = "79BCC730-0F44-4A42-A012-F492207EDC30";
+width = 600;
+}
+);
+},
+{
+glyphname = newGlyph.003;
+layers = (
+{
+layerId = "79BCC730-0F44-4A42-A012-F492207EDC30";
+width = 600;
+}
+);
+},
+{
+glyphname = newGlyph.004;
+layers = (
+{
+layerId = "79BCC730-0F44-4A42-A012-F492207EDC30";
+width = 600;
+}
+);
 }
 );
 instances = (
