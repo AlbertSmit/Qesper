@@ -1,14 +1,17 @@
-### Qesper Display
+# Qesper Display
 ---
 This font is a work in progress, alongside this project (**Qesper** as a synth).
 
 ## What are all these files?
 ```
+    README.md
     LICENSE.md
     QesperDisplay.glyphs
     /dist
 ```
 
+- **README.md**
+the file you are reading.
 - **LICENSE.md**
 has the given license for this font.
 - **QesperDisplay.glyphs**
