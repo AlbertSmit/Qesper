@@ -1,5 +1,4 @@
 # Qesper Display
----
 This font is a work in progress, alongside this project (**Qesper** as a synth).
 
 ## What are all these files?
