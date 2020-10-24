@@ -15,6 +15,14 @@
   </p>
 </p>
 
+---
+
+<p align="center">
+  <i>Oh, by the way!</i> &nbsp; <span><img src="images/handlettering.png" alt="handlettering" height="10">&nbsp; <i>by yours truly</i>.</span><br/>
+  <a href="https://github.com/AlbertSmit/QesperDisplay.otf">
+    It's Open Source! You can find it here.
+  </a>
+</p>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -81,9 +89,3 @@ Will follow later.
 Albert - talkto@albertsm.it
 
 Project Link: [https://github.com/albertsmit/qesper](https://github.com/albertsmit/qesper)
-
----
-
-<p>
-  <i>Oh, by the way!</i> &nbsp; <span><img src="images/handlettering.png" alt="handlettering" height="10">&nbsp; <i>by yours truly</i>.</span>
-</p>
