@@ -1,5 +1,15 @@
-# Qesper Display
+<p align="center">  
+  <a href="https://github.com/albertsmit/qesper/tree/develop/fonts/Qesper%20Display">
+    <img src="images/header.png" alt="Header" height="80">
+  </a>
+</p>
+---
 This font is a work in progress, alongside this project (**Qesper** as a synth).
+
+## Pangram
+<p align="center">  
+    <img src="images/pangram.png" alt="Pangram" height="200">
+</p>
 
 ## What are all these files?
 ```
@@ -7,6 +17,7 @@ This font is a work in progress, alongside this project (**Qesper** as a synth).
     LICENSE.md
     QesperDisplay.glyphs
     /dist
+    /images
 ```
 
 - **README.md**
